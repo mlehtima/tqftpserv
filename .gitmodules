@@ -1,0 +1,3 @@
+[submodule "tqftpserv"]
+	path = tqftpserv
+	url = https://github.com/andersson/tqftpserv.git
